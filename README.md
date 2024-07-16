@@ -1,9 +1,5 @@
 "건축공학도에서 개발자로 진로를 전향한 만큼 열심히 정진 중"
 
-✉Tistory: https://ovg07047.tistory.com/
-
-✉️Email : ovg07047@naver.com
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhyeok0202&&show_icons=true&theme=radical)
